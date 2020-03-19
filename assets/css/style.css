@@ -33,13 +33,13 @@ h6 {
 
 a {
   color: #1e1e1e;
-  transition: all 0.5s ease-in-out;
 }
 
 a:hover {
   color: #1a73e8;
   text-decoration: none;
-  transition: all 0.5s ease-in-out;
+  font-style: italic;
+  font-weight: 700;
 }
 
 .p-r {
