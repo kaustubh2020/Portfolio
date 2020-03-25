@@ -1,3 +1,24 @@
+@font-face {
+  font-family: Harry Potter;
+  src: url(../font/harrypotter.ttf);
+}
+
+/* Kaustubh Jaisawl Name */
+
+#name {
+  font-family: Harry Potter;
+  letter-spacing: 5px;
+  animation: glow 70s linear infinite;
+}
+
+@keyframes glow {
+  50% {
+    text-shadow: 0 0 8px white;
+  }
+}
+
+/* //////////////////// */
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
