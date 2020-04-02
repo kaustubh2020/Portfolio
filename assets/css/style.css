@@ -1,8 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+
 /* Kaustubh Jaisawl Name */
 
 #name {
+  font-family: "Raleway", sans-serif;
   letter-spacing: 5px;
-  animation: glow 70s linear infinite;
+  animation: glow 7s linear infinite;
 }
 
 @keyframes glow {
