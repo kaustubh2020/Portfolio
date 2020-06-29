@@ -41,8 +41,8 @@
 <!-- Footer END -->
 <hr>
 
-`git clone https://github.com/kaustubh2020/Portfolio`
+## :wrench: Setup
+
+``git clone https://github.com/kaustubh2020/Portfolio``
 
 Download and run `index.html`
-
-<hr>
