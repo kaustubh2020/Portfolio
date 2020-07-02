@@ -32,10 +32,6 @@
   <img alt="Gmail URL" src="https://img.shields.io/twitter/url?label=E-mail&logo=google%20messages&logoColor=blue&style=social&url=https%3A%2F%2Fmail.google.com%2F">
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://app.netlify.com/sites/kaustubhjaiswal/deploys">
-  <img alt="Netlify" src="https://img.shields.io/netlify/1429cb7e-8caf-4a29-9825-1091533b026f?logo=netlify&logoColor=blue&style=social">
-</a>
-
 </p>
 
 <!-- Footer END -->
@@ -43,7 +39,8 @@
 
 ## :wrench: Setup
 
-##### ``git clone https://github.com/kaustubh2020/Portfolio``
+##### `git clone https://github.com/kaustubh2020/Portfolio`
 
 Download and run
+
 ##### `index.html`
