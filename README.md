@@ -39,8 +39,8 @@
 
 ## :wrench: Setup
 
-##### `git clone https://github.com/kaustubh2020/Portfolio`
+`git clone https://github.com/kaustubh2020/Portfolio`
 
 Download and run
 
-##### `index.html`
+`index.html`
